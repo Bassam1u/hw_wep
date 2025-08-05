@@ -1,0 +1,12 @@
+*{
+    color: black;
+}
+ul:first-child {
+    font-weight: bold;
+}
+li:hover{
+    color: blue;
+}
+p::before{
+    content: "⭐";
+}
