@@ -1,0 +1,13 @@
+.circal{
+width: 100px;
+height: 100px;
+border: solid black;
+border-radius: 50% ;
+      background: conic-gradient(
+        #3d02df 0deg 90deg, 
+        #36A2EB 90deg 180deg,  
+        #13ac20 180deg 270deg, 
+        #6f82ac 270deg 360deg     
+      );
+
+}
